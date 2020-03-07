@@ -1,0 +1,222 @@
+[
+    {
+        "timestamp": "2020-03-07 15:13:05",
+        "url": "https://fiis.com.br/mfii11/",
+        "fund_ticker": "MFII11",
+        "fund_name": "Mérito Desenvolvimento Imobiliário",
+        "data_base": "28/02/20",
+        "data_pagamento": "13/03/20",
+        "cotacao_base": "R$ 128,20",
+        "dy": "0,80%",
+        "rendimento": "R$ 1,02"
+    },
+    {
+        "timestamp": "2020-03-07 15:13:05",
+        "url": "https://fiis.com.br/mfii11/",
+        "fund_ticker": "MFII11",
+        "fund_name": "Mérito Desenvolvimento Imobiliário",
+        "data_base": "31/01/20",
+        "data_pagamento": "14/02/20",
+        "cotacao_base": "R$ 136,91",
+        "dy": "0,73%",
+        "rendimento": "R$ 1,00"
+    },
+    {
+        "timestamp": "2020-03-07 15:13:05",
+        "url": "https://fiis.com.br/mfii11/",
+        "fund_ticker": "MFII11",
+        "fund_name": "Mérito Desenvolvimento Imobiliário",
+        "data_base": "30/12/19",
+        "data_pagamento": "15/01/20",
+        "cotacao_base": "R$ 131,96",
+        "dy": "0,76%",
+        "rendimento": "R$ 1,00"
+    },
+    {
+        "timestamp": "2020-03-07 15:13:05",
+        "url": "https://fiis.com.br/mfii11/",
+        "fund_ticker": "MFII11",
+        "fund_name": "Mérito Desenvolvimento Imobiliário",
+        "data_base": "29/11/19",
+        "data_pagamento": "13/12/19",
+        "cotacao_base": "R$ 126,69",
+        "dy": "0,79%",
+        "rendimento": "R$ 1,00"
+    },
+    {
+        "timestamp": "2020-03-07 15:13:05",
+        "url": "https://fiis.com.br/mfii11/",
+        "fund_ticker": "MFII11",
+        "fund_name": "Mérito Desenvolvimento Imobiliário",
+        "data_base": "31/10/19",
+        "data_pagamento": "14/11/19",
+        "cotacao_base": "R$ 126,99",
+        "dy": "0,80%",
+        "rendimento": "R$ 1,01"
+    },
+    {
+        "timestamp": "2020-03-07 15:13:05",
+        "url": "https://fiis.com.br/mfii11/",
+        "fund_ticker": "MFII11",
+        "fund_name": "Mérito Desenvolvimento Imobiliário",
+        "data_base": "30/09/19",
+        "data_pagamento": "14/10/19",
+        "cotacao_base": "R$ 121,95",
+        "dy": "0,87%",
+        "rendimento": "R$ 1,06"
+    },
+    {
+        "timestamp": "2020-03-07 15:13:05",
+        "url": "https://fiis.com.br/mfii11/",
+        "fund_ticker": "MFII11",
+        "fund_name": "Mérito Desenvolvimento Imobiliário",
+        "data_base": "30/08/19",
+        "data_pagamento": "13/09/19",
+        "cotacao_base": "R$ 119,30",
+        "dy": "0,91%",
+        "rendimento": "R$ 1,08"
+    },
+    {
+        "timestamp": "2020-03-07 15:13:05",
+        "url": "https://fiis.com.br/mfii11/",
+        "fund_ticker": "MFII11",
+        "fund_name": "Mérito Desenvolvimento Imobiliário",
+        "data_base": "31/07/19",
+        "data_pagamento": "14/08/19",
+        "cotacao_base": "R$ 121,87",
+        "dy": "0,93%",
+        "rendimento": "R$ 1,13"
+    },
+    {
+        "timestamp": "2020-03-07 15:13:05",
+        "url": "https://fiis.com.br/mfii11/",
+        "fund_ticker": "MFII11",
+        "fund_name": "Mérito Desenvolvimento Imobiliário",
+        "data_base": "28/06/19",
+        "data_pagamento": "15/07/19",
+        "cotacao_base": "R$ 121,10",
+        "dy": "0,92%",
+        "rendimento": "R$ 1,12"
+    },
+    {
+        "timestamp": "2020-03-07 15:13:05",
+        "url": "https://fiis.com.br/mfii11/",
+        "fund_ticker": "MFII11",
+        "fund_name": "Mérito Desenvolvimento Imobiliário",
+        "data_base": "31/05/19",
+        "data_pagamento": "14/06/19",
+        "cotacao_base": "R$ 112,50",
+        "dy": "1,02%",
+        "rendimento": "R$ 1,15"
+    },
+    {
+        "timestamp": "2020-03-07 15:13:06",
+        "url": "https://fiis.com.br/bbpo11/",
+        "fund_ticker": "BBPO11",
+        "fund_name": "BB Progressivo II",
+        "data_base": "28/02/20",
+        "data_pagamento": "13/03/20",
+        "cotacao_base": "R$ 161,49",
+        "dy": "0,66%",
+        "rendimento": "R$ 1,06"
+    },
+    {
+        "timestamp": "2020-03-07 15:13:06",
+        "url": "https://fiis.com.br/bbpo11/",
+        "fund_ticker": "BBPO11",
+        "fund_name": "BB Progressivo II",
+        "data_base": "31/01/20",
+        "data_pagamento": "14/02/20",
+        "cotacao_base": "R$ 164,11",
+        "dy": "0,64%",
+        "rendimento": "R$ 1,06"
+    },
+    {
+        "timestamp": "2020-03-07 15:13:06",
+        "url": "https://fiis.com.br/bbpo11/",
+        "fund_ticker": "BBPO11",
+        "fund_name": "BB Progressivo II",
+        "data_base": "30/12/19",
+        "data_pagamento": "15/01/20",
+        "cotacao_base": "R$ 171,60",
+        "dy": "0,62%",
+        "rendimento": "R$ 1,06"
+    },
+    {
+        "timestamp": "2020-03-07 15:13:06",
+        "url": "https://fiis.com.br/bbpo11/",
+        "fund_ticker": "BBPO11",
+        "fund_name": "BB Progressivo II",
+        "data_base": "29/11/19",
+        "data_pagamento": "13/12/19",
+        "cotacao_base": "R$ 159,89",
+        "dy": "0,66%",
+        "rendimento": "R$ 1,06"
+    },
+    {
+        "timestamp": "2020-03-07 15:13:06",
+        "url": "https://fiis.com.br/bbpo11/",
+        "fund_ticker": "BBPO11",
+        "fund_name": "BB Progressivo II",
+        "data_base": "31/10/19",
+        "data_pagamento": "14/11/19",
+        "cotacao_base": "R$ 154,70",
+        "dy": "0,68%",
+        "rendimento": "R$ 1,06"
+    },
+    {
+        "timestamp": "2020-03-07 15:13:06",
+        "url": "https://fiis.com.br/bbpo11/",
+        "fund_ticker": "BBPO11",
+        "fund_name": "BB Progressivo II",
+        "data_base": "30/09/19",
+        "data_pagamento": "14/10/19",
+        "cotacao_base": "R$ 150,98",
+        "dy": "0,70%",
+        "rendimento": "R$ 1,06"
+    },
+    {
+        "timestamp": "2020-03-07 15:13:06",
+        "url": "https://fiis.com.br/bbpo11/",
+        "fund_ticker": "BBPO11",
+        "fund_name": "BB Progressivo II",
+        "data_base": "30/08/19",
+        "data_pagamento": "13/09/19",
+        "cotacao_base": "R$ 151,01",
+        "dy": "0,70%",
+        "rendimento": "R$ 1,06"
+    },
+    {
+        "timestamp": "2020-03-07 15:13:06",
+        "url": "https://fiis.com.br/bbpo11/",
+        "fund_ticker": "BBPO11",
+        "fund_name": "BB Progressivo II",
+        "data_base": "31/07/19",
+        "data_pagamento": "14/08/19",
+        "cotacao_base": "R$ 149,52",
+        "dy": "0,69%",
+        "rendimento": "R$ 1,02"
+    },
+    {
+        "timestamp": "2020-03-07 15:13:06",
+        "url": "https://fiis.com.br/bbpo11/",
+        "fund_ticker": "BBPO11",
+        "fund_name": "BB Progressivo II",
+        "data_base": "28/06/19",
+        "data_pagamento": "15/07/19",
+        "cotacao_base": "R$ 146,00",
+        "dy": "0,70%",
+        "rendimento": "R$ 1,02"
+    },
+    {
+        "timestamp": "2020-03-07 15:13:06",
+        "url": "https://fiis.com.br/bbpo11/",
+        "fund_ticker": "BBPO11",
+        "fund_name": "BB Progressivo II",
+        "data_base": "31/05/19",
+        "data_pagamento": "14/06/19",
+        "cotacao_base": "R$ 142,80",
+        "dy": "0,72%",
+        "rendimento": "R$ 1,02"
+    }
+]
